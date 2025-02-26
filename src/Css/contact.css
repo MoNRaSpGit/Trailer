@@ -1,0 +1,9 @@
+.contact-container {
+    text-align: center;
+    padding: 30px;
+}
+
+.contact-container p {
+    font-size: 18px;
+    color: #444;
+}
