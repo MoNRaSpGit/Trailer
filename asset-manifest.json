@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trailer.git/static/css/main.1cb3e1b6.css",
+    "main.js": "/Trailer.git/static/js/main.a2970c0a.js",
+    "index.html": "/Trailer.git/index.html",
+    "main.1cb3e1b6.css.map": "/Trailer.git/static/css/main.1cb3e1b6.css.map",
+    "main.a2970c0a.js.map": "/Trailer.git/static/js/main.a2970c0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb3e1b6.css",
+    "static/js/main.a2970c0a.js"
+  ]
+}
